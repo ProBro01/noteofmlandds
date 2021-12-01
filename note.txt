@@ -1,0 +1,4 @@
+name,age,gender,city
+Aryan,19,male,alwar
+sarthak,19,male,ajmer
+divyansh,14,male, alwar
